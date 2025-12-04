@@ -1,6 +1,6 @@
 <h1 align="center"> Currency Converter </h1>
 <p align="center">
-  <img src="assets/logo.png" alt="Currency Converter Logo" width="200">
+  <img src="Currency-Convertor-Challenge/assets/logo.png" alt="Currency Converter Logo" width="200">
 </p>
 <div>
 <p>This first Java project aims to showcase my initial progress in backend programming.
